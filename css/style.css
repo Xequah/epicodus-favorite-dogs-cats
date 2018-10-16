@@ -34,3 +34,12 @@ ol{
   background-color: red;
   color: #0d47a1
 }
+
+.white-background {
+  background-color: white;
+  color: black;
+}
+
+.btn {
+  border-color: black;
+}
