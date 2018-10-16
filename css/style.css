@@ -3,7 +3,7 @@ title {
 }
 
 h1 {
-  color: red;
+  color: black;
   text-align: center;
 }
 
@@ -25,4 +25,12 @@ ol{
   font-size: 20px;
   line-height: 30px;
 
+}
+.green-background {
+  background-color: green;
+  color: #9933CC
+}
+.red-background {
+  background-color: red;
+  color: #0d47a1
 }
